@@ -1,0 +1,131 @@
+---
+Database:
+    BalanceCenterDailyQueryStatusbyType: 
+      Database : DataScientist.dbo.DS_BalanceCenterDailyQueryStatus_byType
+      Server : JG
+    BalanceCenterUpdatedTime:
+      Database :  DataScientist.dbo.DS_RetentionlistBetrecordDailySummary
+      Server : BalanceCenter_190
+    DS_RetentionlistPreprocesStatus:
+      Database : DataScientist.dbo.DS_RetentionlistPreprocesStatus
+      Server : JG
+    DS_RetentionlistActiveWebsites:
+      Database : DataScientist.dbo.DS_RetentionlistActiveWebsites
+      Server : JG
+    DS_RetentionListProcesStatus:
+      Database : DataScientist.dbo.DS_RetentionlistProcesStatus
+      Server : JG
+    MonthlyTop10Commissionable:
+      Database : DataScientist.dbo.DS_MonthlyTop10Commissionable
+      Server : BalanceCenter_190
+    TransferRetentionListActivity:
+      LinkedName: DB090
+      DestinationServer: JG
+      DestinationDB : DataScientist.dbo.RetentionListActivity
+      OriginServer  : BalanceCenter_190
+      OriginDB      : DataScientist.dbo.RetentionListActivity
+      Schema        : ['type','website','Memberid','activity','leave7d0','leave7d1','leave7d3','leave7d5','leave7d7','leave7d14','included','dayssincelasttime','walletamount']  
+      Switch        : '<='       
+    TransferRetentionListUsers:
+      LinkedName: DB090
+      DestinationServer: JG
+      DestinationDB: DataScientist.dbo.RetentionListUsers
+      OriginServer: BalanceCenter_190
+      OriginDB    : DataScientist.dbo.RetentionListUsers
+      Schema      : ['Memberid','GameAccount','FirstUpdateDay','LastUpdateDay','MaxActivityVector','Type','SystemCode','JoinTime','MemberLevelSettingId','DiscountSettingId','FirstDayPlayed']
+      TimeField   : FirstUpdateDay
+    TransferRetentionListBetrecord:
+      LinkedName: DB090
+      DestinationServer: JG
+      DestinationDB: DataScientist.dbo.RetentionListBetrecord
+      OriginServer: BalanceCenter_190
+      OriginDB    : DataScientist.dbo.RetentionListBetrecord
+      Schema      : ['type','website','activity','Memberid','wagerscount','amountsum','amountsum7d','payoffsum','commissionablesum','hoursplayed','diffgamesplayed','lastperiodplayed','lastrawdatatype','lastcode','payoff7d','wagerscount7d','payoff1d','wagerscount1d','mostrawdatatype','mostcode','betamountrawdatatype','betamountcode','wagerscountrawdatatype','wagerscountcode','betswon','betswonlastday','timesincelastwin']
+    TransferRetentionListFinancialLastMonth:
+      LinkedName: DB090
+      DestinationServer: JG
+      DestinationDB: DataScientist.dbo.RetentionListFinancialLastMonth
+      OriginServer: BalanceCenter_190
+      OriginDB    : DataScientist.dbo.RetentionListFinancialLastMonth
+      Schema      : ['memberid','website','type','activity','deposittimes','creditdeposittimes','thirdpartypaymenttimes','depositsum','creditdepositsum','thirdpartypaymentsum','withdrawtimes','withdrawsum','favorablesum','discountsum','otherssum','memberdiscountsum','yesterday_depositamt','yesterday_deposit','yesterday_withdrawamt','yesterday_withdraw','last_7d_depositamt','last_7d_deposit','last_7d_withdraw_amt','last_7d_withdraw']
+    TransferRetentionListIP:
+      LinkedName: DB090
+      DestinationServer: JG
+      DestinationDB: DataScientist.dbo.RetentionListIP
+      OriginServer: BalanceCenter_190
+      OriginDB    : DataScientist.dbo.RetentionListIP
+      Schema      : ['type','website','memberid','activity','logintimes','logindays','logindays7d','time_since_last_time','time_before','time_between']
+    TransferRetentionListFinancialHistory:
+      LinkedName: DB090
+      DestinationServer: JG
+      DestinationDB: DataScientist.dbo.RetentionListFinancialHistory
+      OriginServer: BalanceCenter_190
+      OriginDB    : DataScientist.dbo.RetentionListFinancialHistory
+      Schema      : ['memberid','activity','type','website','depositmax','last_depositamt','last_deposit','timesincelastdeposit','previous_depositamt','previous_deposit','previous_depositlag','datesdeposited','avg_time_between_deposit','avg_depositamt','avg_deposittimes','withdrawmax','last_withdrawamt','last_withdraw','timesincelastwithdraw','previous_withdrawamt','previous_withdraw','previous_withdrawlag','dateswithdraw','avg_time_between_withdraw','avg_withdrawamt','avg_withdrawtimes']
+    TransferRetentionListFinancialPromotion:
+      LinkedName: DB090
+      DestinationServer: JG
+      DestinationDB: DataScientist.dbo.RetentionListFinancialPromotion
+      OriginServer: BalanceCenter_190
+      OriginDB    : DataScientist.dbo.RetentionListFinancialPromotion
+      Schema      : ['type','website','memberid','activity','avg_depositamount_decreasing','avg_deposittimes_decreasing','avg_withdrawamount_increasing','avg_depositamt_over_1000','discount']    
+      
+
+SP:
+    AggregateBalanceCenterSummarize:
+      Procedure : DataScientist.dbo.DS_RetentionListAggregateBalanceCenterSummarize
+      Server    : BalanceCenter_190
+    RetentionlistcollectBetrecord:
+      Procedure : DataScientist.dbo.DS_RetentionlistcollectBetrecord
+      Server    : BalanceCenter_190
+    MonthlyTop10Commissionable:
+      Procedure : DataScientist.dbo.CollectMonthlyTop10GamesCommissionable
+      Server    : BalanceCenter_190
+    AggregateFinancial:
+      Procedure : DataScientist.dbo.AggregateFinancialWebsite
+      Server    : BalanceCenter_190
+    UpdateUserList:
+      Procedure : DataScientist.dbo.RetentionListUpdateUserList
+      Server    : BalanceCenter_190
+    CollectActivity:
+      Procedure : DataScientist.dbo.RetentionListCollectActivity
+      Server    : BalanceCenter_190
+    CollectFinancialLastMonth:
+      Procedure : DataScientist.dbo.RetentionListCollectFinancialLastMonth
+      Server    : BalanceCenter_190
+    CollectFinancialHistory:
+      Procedure : DataScientist.dbo.RetentionListCollectFinancialHistory
+      Server    : BalanceCenter_190
+    CollectFinancialPromotion:
+      Procedure : DataScientist.dbo.RetentionListCollectFinancialPromotion
+      Server    : BalanceCenter_190
+    CollectBetrecord:
+      Procedure : DataScientist.dbo.RetentionListCollectBetrecord
+      Server    : BalanceCenter_190
+    CollectIp:
+      Procedure : DataScientist.dbo.RetentionListCollectIp
+      Server    : BalanceCenter_190
+    UpdateActivity:
+      Procedure : DataScientist.dbo.RetentionListUpdateActivity
+      Server    : JG
+    UpdateFinancialPromotion:
+      Procedure : DataScientist.dbo.RetentionListUpdateFinancialPromotion
+      Server    : JG
+    CollectWalletHistory:
+      Procedure : DataScientist.dbo.RetentionListCollectWalletHistory
+      Server    : JG
+    UpdateActivityDates:
+      Procedure : DataScientist.dbo.RetentionListUpdateActivityDates
+      Server    : JG
+    UpdateActivityHistory:
+      Procedure : DataScientist.dbo.RetentionListUpdateActivityHistory
+      Server    : JG
+    RetentionListProcessResult:
+      Procedure : DataScientist.dbo.RetentionListProcessResult
+      Server    : BalanceCenter_190
+
+RPrograms:
+    Rdirectory: 'C:\Users\DS.Tom\Documents\R\R-3.6.1\bin\Rscript.exe'
+    RetentionRateWrapper: 
+        Name: '..\RetentionRateWrapper.R'
+        

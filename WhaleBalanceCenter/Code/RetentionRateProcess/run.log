@@ -1,0 +1,1864 @@
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Not all tables do exists. (51000) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Not all tables do exists. (51000) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Not all tables do exists. (51000) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Not all tables do exists. (51000) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 194) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 211) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的物件名稱 '##balancecenter_temporary_aggregation'。 (208) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 150) 在 鎖定 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的物件名稱 '##balancecenter_temporary_aggregation'。 (208) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 223) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 231) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 221) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 217) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的物件名稱 '##balancecenter_temporary_aggregation'。 (208) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 233) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 243) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 208) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 165) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 239) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 210) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的物件名稱 '##balancecenter_temporary_aggregation'。 (208) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 182) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 168) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 209) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 245) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的物件名稱 '##balancecenter_temporary_aggregation'。 (208) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 255) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無法從連結伺服器 "DB090" 的 OLE DB 提供者 "SQLNCLI11" 提取資料列。 (7330) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 247) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 250) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]連結伺服器 "DB090" 的 OLE DB 提供者 "SQLNCLI11" 報告了錯誤。由於已經到達資源的限制而由提供者結束執行。 (7399) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]連結伺服器 "DB090" 的 OLE DB 提供者 "SQLNCLI11" 報告了錯誤。由於已經到達資源的限制而由提供者結束執行。 (7399) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 252) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 260) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的物件名稱 '##Ranked_temporary_aggregation'。 (208) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 258) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 266) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 257) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的物件名稱 '##balancecenter_temporary_aggregation'。 (208) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 263) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 235) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 283) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 269) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 236) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 196) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 274) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 240) 在 鎖定 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 275) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 272) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 286) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('40001', '[40001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]交易 (處理序識別碼 280) 在 鎖定 | 通訊緩衝區 資源上被另一個處理序鎖死並已被選擇作為死結的犧牲者。請重新執行該交易。 (1205) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S01', "[42S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料庫中已經有一個名為 '##balancecenter_temporary_aggregation' 的物件。 (2714) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]找不到預存程序 'DataScientist.dbo.RetentionListAggregateLogin'。 (2812) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('IMC06', '[IMC06] [Microsoft][ODBC Driver 17 for SQL Server]The connection is broken and recovery is not possible. The connection is marked by the client driver as unrecoverable. No attempt was made to restore the connection. (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('21S01', '[21S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料行名稱或提供的數值數量與資料表定義不相符。 (213) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('21S01', '[21S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料行名稱或提供的數值數量與資料表定義不相符。 (213) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('21S01', '[21S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料行名稱或提供的數值數量與資料表定義不相符。 (213) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('21S01', '[21S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料行名稱或提供的數值數量與資料表定義不相符。 (213) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('21S01', '[21S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料行名稱或提供的數值數量與資料表定義不相符。 (213) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('21S01', '[21S01] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]資料行名稱或提供的數值數量與資料表定義不相符。 (213) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'FinancialAggregationLongTerm'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'FinancialAggregationLongTerm'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'FinancialAggregationLongTerm'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'AggregateLoginLongterm'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'AggregateFinancialPromotionLongterm'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]接近 '<' 之處的語法不正確。 (102) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server]Syntax error, permission violation, or other nonspecific error (0) (SQLExecDirectW)')
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: No results.  Previous SQL was not a query.
+ERROR:root:SQL Server.Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]無效的資料行名稱 'Appel'。 (207) (SQLExecDirectW)")

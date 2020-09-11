@@ -1,0 +1,5 @@
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'SQL Server Native Client 11.0' : file not found (0) (SQLDriverConnect)")
+ERROR:root:SQL Server connecting error, reason is: <class 'pyodbc.Error'> returned a result with an error set
+ERROR:root:SQL Server connecting error, reason is: ('HYT00', '[HYT00] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0) (SQLDriverConnect)')
